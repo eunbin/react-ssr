@@ -1,0 +1,8 @@
+.Blue {
+  background: blue;
+  width: 128px;
+  height: 128px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
